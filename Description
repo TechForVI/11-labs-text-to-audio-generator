@@ -1,10 +1,1 @@
-Initial release of 11 labs text to audio generator
-• ElevenLabs API integration for high-quality text-to-speech
-• Multiple voice selection from ElevenLabs library
-• Three voice modes: Stable, Balanced, Creative
-• Save generated audio to Download folder
-• Play/Pause functionality for generated audio
-• Custom file naming for saved audio
-• About & Support section with description
-• Watch tutorial videos directly from the plugin
-• Auto-update system for future updates
+Initial release of 11 labs text to audio generator.  ElevenLabs API integration for high-quality text-to-speech.  Multiple voice selection from ElevenLabs library.  Three voice modes: Stable, Balanced, Creative.  Save generated audio to Download folder.  Play/Pause functionality for generated audio.  Custom file naming for saved audio. Watch tutorial videos directly from the plugin.  Auto-update system for future updates
