@@ -1,0 +1,8 @@
+​What's New in Version 2.0
+​We have upgraded the 11 Labs Text to Audio Generator with new features to enhance your workflow and user experience:
+​Check Remaining Tokens: You can now instantly view your remaining character balance directly within the app.
+​Media Playback Controls: Added dedicated "Fast-Forward" and "Rewind" buttons (10-second intervals) for better control over your generated audio.
+​Direct Sharing: Easily share your generated audio files with others using the new "Share Audio" feature.
+​Performance Improvements: Several minor bugs have been resolved to ensure a smoother and more stable experience.
+​Important Note for API Configuration:
+To ensure the "Check Remaining Tokens" feature works correctly, please note that a new API creation method is required. If your current API key is not functioning, please check the "Watch Tutorial" section in the app and follow the latest "How to Generate ElevenLabs API Key" guide to generate a new key.
